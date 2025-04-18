@@ -1,0 +1,23 @@
+10 HTML tags:
+1) <header>
+2) <nav>
+3) <h1>
+4) <p>
+5) <ul>
+6) <li>
+7) <div>
+8) <span>
+9) <img>
+10) <footer>
+
+
+5 CSS properties:
+1) margin
+2) padding
+3) background-color
+4) text-align
+5) font-size
+
+
+Brief (one-sentence) description of how you chose to use JavaScript and Bootstrap:
+I used JavaScript to dynamically load HTML content from external files into the main page, and from Bootstrap I have used Collapse for the links.
